@@ -25,9 +25,11 @@ b. Display the first five and last five rows of the `cars` DataFrame.
 ## Problem 2: Subsetting, Slicing, and Indexing Operations
 
 1. **Subsetting**:<br />
-a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of `cars`.<br />
+a. Outputs the first five rows of the data frame with odd numbered columns.<br />
 **Output:**<br />
-![Screen Shot 2024-09-16 at 10 14 45 PM](https://github.com/user-attachments/assets/19c8a386-7650-43a7-990e-f290445c44c8)
+![Screen Shot 2024-09-16 at 10 56 39 PM](https://github.com/user-attachments/assets/95a5b169-9666-451a-997a-982cc8ff1727)
+
+
 
 
 2. **Indexing**:<br />
